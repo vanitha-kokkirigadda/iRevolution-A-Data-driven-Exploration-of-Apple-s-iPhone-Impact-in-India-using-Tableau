@@ -78,7 +78,11 @@ All design thinking documentation, storyboards, and architecture are available i
 - [x] Project Demonstration & Documentation
 - [x] Final Report
 
-
+Team (LinkedIn Profiles👇)
+@vnvrkarthik
+@Hema Saikumar_Tentu
+@Poojitha Kolusu
+@Jagadeesh_Tamma
 
 
 
