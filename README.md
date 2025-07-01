@@ -80,14 +80,6 @@ All design thinking documentation, storyboards, and architecture are available i
 
 
 
-## Team (LinkedIn Profiles👇)
-
-- [@Vanitha Kokkirigadda](https://www.linkedin.com/in/vanitha-kokkirigadda-a07301344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- [@Hema Saikumar_Tentu](https://www.linkedin.com/in/hema-sai-kumar-tentu-910971319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [@Poojitha Kolusu](https://www.linkedin.com/in/poojitha-kolusu-25820b2ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [@Jagadeesh_Tamma](https://www.linkedin.com/in/tamma-jagadeesh-3619372bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
 
 
 ## Feedback
